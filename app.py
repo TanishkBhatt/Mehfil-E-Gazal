@@ -118,4 +118,4 @@ if get_song:
 
 st.markdown("")
 st.markdown("")
-st.caption("MADE BY TANISHK | COOPERATED BY AKSHAY")
+st.caption("DEVELOPED BY TANISHK | COOPERATED BY AKSHAY")
