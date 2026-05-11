@@ -14,7 +14,7 @@ st.markdown("")
 with st.form(key="get-song"):
     song = st.selectbox(
         "SELECT THE SONG YOU WANNA GO THROUGH",
-        get_song_names("datasets/songs.json")
+        sorted(get_song_names("datasets/songs.json"))
     )
     
     get_song = st.form_submit_button("__GET SONG__", type="primary")
