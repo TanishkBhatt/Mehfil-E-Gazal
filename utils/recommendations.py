@@ -18,11 +18,11 @@ def recommend_more(songs_list: str, singer_name: str, categories: list[str]) -> 
         if details["Singer"] == singer_name:
             if song in available_songs("datasets/audio"):
                 rec_by_singer.add((song, details["Singer"]))
-                
-        for category in details["Category"]:
-            if category in categories:
-                if song in available_songs("datasets/audio"):
-                    rec_by_category.add((song, details["Singer"]))
+        else:
+            for category in details["Category"]:
+                if category in categories:
+                    if song in available_songs("datasets/audio"):
+                        rec_by_category.add((song, details["Singer"]))
 
     res = list(rec_by_singer)[:3], list(rec_by_category)[:3]
     return res
