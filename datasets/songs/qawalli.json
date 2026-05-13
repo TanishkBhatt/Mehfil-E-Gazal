@@ -1,0 +1,59 @@
+{
+    "Dil Pe Zakhm Khate Hain": {
+        "Singer": "Nusrat Fateh Ali Khan",
+        "Writer": "Fanaa Kanpuri",
+        "Category": [
+            "Sad",
+            "Heartbreak"
+        ],
+        "Lyrics": [
+            "Dil pe zakhm khate hain jaan pe khel jaate hain"
+        ]
+    },
+    "Kali Kali Zulfon Ke Phande": {
+        "Singer": "Nusrat Fateh Ali Khan",
+        "Writer": "Fanaa Kanpuri",
+        "Category": [
+            "Romantic",
+            "Enchantment"
+        ],
+        "Lyrics": [
+            "Kali kali zulfon ke phande na dalo"
+        ]
+    },
+    "Tumhe Dillagi Bhool Jaani Padegi": {
+        "Singer": "Nusrat Fateh Ali Khan",
+        "Writer": "Purnam Allahabadi",
+        "Category": [
+            "Love",
+            "Reprimand"
+        ],
+        "Lyrics": [
+            "Tumhe dillagi bhool jaani padegi",
+            "mohabbat ki raahon mein aakar toh dekho"
+        ]
+    },
+    "Unke Andaz-e-Karam": {
+        "Singer": "Nusrat Fateh Ali Khan",
+        "Writer": "Traditional",
+        "Category": [
+            "Appreciation",
+            "Devotion"
+        ],
+        "Lyrics": [
+            "Unke andaz-e-karam unke sitam kya kahiye"
+        ]
+    },
+    "Yeh Jo Halka Halka Suroor Hai": {
+        "Singer": "Nusrat Fateh Ali Khan",
+        "Writer": "Anwar Jogi",
+        "Category": [
+            "Intoxication",
+            "Love"
+        ],
+        "Lyrics": [
+            "Yeh jo halka halka suroor hai",
+            "yeh teri nazar ka kusoor hai"
+        ]
+    }
+}

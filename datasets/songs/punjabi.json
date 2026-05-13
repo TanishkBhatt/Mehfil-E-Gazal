@@ -1,0 +1,132 @@
+{
+    "Excuses": {
+        "Singer": "AP Dhillon",
+        "Writer": "AP Dhillon, Gurinder Gill, Intense",
+        "Category": [
+            "Punjabi",
+            "Romantic",
+            "Trending"
+        ],
+        "Lyrics": [
+            "Kehndi hundi si chan tak raah bana de",
+            "Taare ne pasand mainu hethaan saare laa de"
+        ]
+    },
+    "Brown Munde": {
+        "Singer": "AP Dhillon",
+        "Writer": "Shinda Kahlon",
+        "Category": [
+            "Punjabi",
+            "Hip Hop",
+            "Trending"
+        ],
+        "Lyrics": [
+            "Brown munde aa dekh ke ni saare darrde",
+            "Brown munde aa gallan hor karde"
+        ]
+    },
+    "295": {
+        "Singer": "Sidhu Moose Wala",
+        "Writer": "Sidhu Moose Wala",
+        "Category": [
+            "Punjabi",
+            "Rap",
+            "Social"
+        ],
+        "Lyrics": [
+            "Dass putt tera head down kasto",
+            "Chunniyan ni rehndiyan ne sadaa top te"
+        ]
+    },
+    "So High": {
+        "Singer": "Sidhu Moose Wala",
+        "Writer": "Sidhu Moose Wala",
+        "Category": [
+            "Punjabi",
+            "Rap",
+            "Energetic"
+        ],
+        "Lyrics": [
+            "Yeah proof",
+            "I'm so high"
+        ]
+    },
+    "Lover": {
+        "Singer": "Diljit Dosanjh",
+        "Writer": "Raj Ranjodh",
+        "Category": [
+            "Punjabi",
+            "Romantic",
+            "Melody"
+        ],
+        "Lyrics": [
+            "Kol ae tu par lagda ae door",
+            "Tu vi taan dass ki kasoor"
+        ]
+    },
+    "GOAT": {
+        "Singer": "Diljit Dosanjh",
+        "Writer": "Karan Aujla",
+        "Category": [
+            "Punjabi",
+            "Pop",
+            "Energetic"
+        ],
+        "Lyrics": [
+            "Diamond'an de naal toll da jatt",
+            "Gaddiyan ch rehnda bolda jatt"
+        ]
+    },
+    "Softly": {
+        "Singer": "Karan Aujla",
+        "Writer": "Karan Aujla",
+        "Category": [
+            "Punjabi",
+            "Romantic",
+            "Trending"
+        ],
+        "Lyrics": [
+            "Ni tu softly kadd de smile ni",
+            "Munde mundeya de dil hoye file ni"
+        ]
+    },
+    "Insane": {
+        "Singer": "AP Dhillon",
+        "Writer": "Shinda Kahlon",
+        "Category": [
+            "Punjabi",
+            "Chill",
+            "Modern"
+        ],
+        "Lyrics": [
+            "Main keha insane ho gaya",
+            "Tere pyaar ch pain ho gaya"
+        ]
+    },
+    "Pasoori": {
+        "Singer": "Ali Sethi",
+        "Writer": "Ali Sethi, Fazal Abbas",
+        "Category": [
+            "Punjabi",
+            "Fusion",
+            "Global Hit"
+        ],
+        "Lyrics": [
+            "Aa chalein leke tujhe",
+            "Hai jahaan silsile"
+        ]
+    },
+    "Born To Shine": {
+        "Singer": "Diljit Dosanjh",
+        "Writer": "Amrit Maan",
+        "Category": [
+            "Punjabi",
+            "Motivational",
+            "Pop"
+        ],
+        "Lyrics": [
+            "Ho pakki saddi ek aa pehchaan patlo",
+            "Circle chhota gall baat vaddi ae"
+        ]
+    }
+}

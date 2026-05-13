@@ -1,0 +1,145 @@
+{
+    "Blinding Lights": {
+        "Singer": "The Weeknd",
+        "Writer": "Abel Tesfaye, Max Martin, Oscar Holter",
+        "Category": [
+            "Pop",
+            "Synthwave",
+            "Trending"
+        ],
+        "Lyrics": [
+            "Yeah",
+            "I've been tryna call"
+        ]
+    },
+    "Shape of You": {
+        "Singer": "Ed Sheeran",
+        "Writer": "Ed Sheeran, Steve Mac, Johnny McDaid",
+        "Category": [
+            "Pop",
+            "Dance",
+            "Romantic"
+        ],
+        "Lyrics": [
+            "The club isn't the best place to find a lover",
+            "So the bar is where I go"
+        ]
+    },
+    "Perfect": {
+        "Singer": "Ed Sheeran",
+        "Writer": "Ed Sheeran",
+        "Category": [
+            "Romantic",
+            "Pop",
+            "Love"
+        ],
+        "Lyrics": [
+            "I found a love for me",
+            "Darling, just dive right in"
+        ]
+    },
+    "Someone You Loved": {
+        "Singer": "Lewis Capaldi",
+        "Writer": "Lewis Capaldi, Tom Barnes, Pete Kelleher",
+        "Category": [
+            "Sad",
+            "Emotional",
+            "Pop"
+        ],
+        "Lyrics": [
+            "I'm going under and this time I fear there's no one to save me",
+            "This all or nothing really got a way of driving me crazy"
+        ]
+    },
+    "Heat Waves": {
+        "Singer": "Glass Animals",
+        "Writer": "Dave Bayley",
+        "Category": [
+            "Indie",
+            "Chill",
+            "Trending"
+        ],
+        "Lyrics": [
+            "Road shimmer wigglin' the vision",
+            "Heat, heat waves, I'm swimmin' in a mirror"
+        ]
+    },
+    "Believer": {
+        "Singer": "Imagine Dragons",
+        "Writer": "Dan Reynolds, Wayne Sermon, Ben McKee",
+        "Category": [
+            "Rock",
+            "Motivational",
+            "Energetic"
+        ],
+        "Lyrics": [
+            "First things first",
+            "I'ma say all the words inside my head"
+        ]
+    },
+    "Lovely": {
+        "Singer": "Billie Eilish",
+        "Writer": "Billie Eilish, Khalid, Finneas",
+        "Category": [
+            "Sad",
+            "Emotional",
+            "Soft"
+        ],
+        "Lyrics": [
+            "Thought I found a way",
+            "Thought I found a way out"
+        ]
+    },
+    "Faded": {
+        "Singer": "Alan Walker",
+        "Writer": "Alan Walker, Jesper Borgen",
+        "Category": [
+            "Electronic",
+            "Sad",
+            "Chill"
+        ],
+        "Lyrics": [
+            "You were the shadow to my light",
+            "Did you feel us?"
+        ]
+    },
+    "Bad Guy": {
+        "Singer": "Billie Eilish",
+        "Writer": "Billie Eilish, Finneas",
+        "Category": [
+            "Dark Pop",
+            "Trending",
+            "Modern"
+        ],
+        "Lyrics": [
+            "White shirt now red, my bloody nose",
+            "Sleepin', you're on your tippy toes"
+        ]
+    },
+    "Thunder": {
+        "Singer": "Imagine Dragons",
+        "Writer": "Dan Reynolds, Wayne Sermon, Ben McKee",
+        "Category": [
+            "Rock",
+            "Energetic",
+            "Motivational"
+        ],
+        "Lyrics": [
+            "Just a young gun with a quick fuse",
+            "I was uptight, wanna let loose"
+        ]
+    },
+    "Headlights": {
+        "Singer": "Alan Walker",
+        "Writer": "Alan Walker, KIDDO, Mood Melodies",
+        "Category": [
+            "Electronic",
+            "Pop",
+            "Chill"
+        ],
+        "Lyrics": [
+            "Oh, I know why you're chasing all the headlights",
+            "Oh, 'cause you're always tryna get ahead of light"
+        ]
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "Agar Tum Sath Ho": {
+        "Singer": "Arijit Singh",
+        "Writer": "Irshad Kamil",
+        "Category": [
+            "Sad",
+            "Love"
+        ],
+        "Lyrics": [
+            "Pal bhar thahar jao",
+            "dil ye sambhal jaye"
+        ]
+    },
+    "Arz Kiya Hai": {
+        "Singer": "Anuv Jain",
+        "Writer": "Anuv Jain",
+        "Category": [
+            "Indie",
+            "Romantic"
+        ],
+        "Lyrics": [
+            "Arz kiya hai ki mere dil mein rehna tum"
+        ]
+    },
+    "Banda Kaam Ka": {
+        "Singer": "Chaar Diwaari",
+        "Writer": "Chaar Diwaari",
+        "Category": [
+            "Hip-Hop",
+            "Modern"
+        ],
+        "Lyrics": [
+            "Main banda kaam ka par kismat hai thodi khoti"
+        ]
+    },
+    "Chaudhavi Shab": {
+        "Singer": "Shreya Ghoshal",
+        "Writer": "A.M. Turaz",
+        "Category": [
+            "Sufi",
+            "Soulful"
+        ],
+        "Lyrics": [
+            "Chaudhavi shab ka chand ho tum ya aftab ho"
+        ]
+    },
+    "Gali Mein Chand": {
+        "Singer": "Alka Yagnik",
+        "Writer": "Anand Bakshi",
+        "Category": [
+            "Sad",
+            "Love"
+        ],
+        "Lyrics": [
+            "Tum aaye toh aaya mujhe yaad",
+            "gali mein aaj chand nikla"
+        ]
+    },
+    "Garaj Garaj Rock": {
+        "Singer": "Shankar-Ehsaan-Loy",
+        "Writer": "A.M. Turaz",
+        "Category": [
+            "Rock",
+            "Classical Fusion"
+        ],
+        "Lyrics": [
+            "Garaj garaj barso megha",
+            "garaj garaj barso"
+        ]
+    },
+    "Gehra Hua": {
+        "Singer": "Shashwat Sachdev",
+        "Writer": "Irshad Kamil",
+        "Category": [
+            "Soulful",
+            "Deep"
+        ],
+        "Lyrics": [
+            "Gehra hua hai dard aur bhi gehra"
+        ]
+    },
+    "Ghoomar": {
+        "Singer": "Shreya Ghoshal",
+        "Writer": "A.M. Turaz",
+        "Category": [
+            "Folk",
+            "Classical"
+        ],
+        "Lyrics": [
+            "Ghoomar ramvane mhe padhaya sa"
+        ]
+    },
+    "Ishq Jalakar": {
+        "Singer": "Shashwat Sachdev",
+        "Writer": "Traditional / Shashwat Sachdev",
+        "Category": [
+            "Dark Romantic",
+            "Intense"
+        ],
+        "Lyrics": [
+            "Ishq jalakar khaak kar dega"
+        ]
+    },
+    "Jaiye Sajana": {
+        "Singer": "Shashwat Sachdev",
+        "Writer": "Traditional / Shashwat Sachdev",
+        "Category": [
+            "Classical Modern",
+            "Vibe"
+        ],
+        "Lyrics": [
+            "Jaiye sajana ab kaahe ko aaye ho"
+        ]
+    },
+    "Jhalla Wallah": {
+        "Singer": "Shreya Ghoshal",
+        "Writer": "Kausar Munir",
+        "Category": [
+            "Playful",
+            "Classic Modern"
+        ],
+        "Lyrics": [
+            "Jhalla wallah",
+            "jhalla wallah",
+            "mere aashiq jhalla wallah"
+        ]
+    },
+    "Kajra Re": {
+        "Singer": "Javed Ali",
+        "Writer": "Gulzar",
+        "Category": [
+            "Dance",
+            "Classic"
+        ],
+        "Lyrics": [
+            "Kajra re",
+            "kajra re",
+            "tere kaare kaare naina"
+        ]
+    },
+    "Lutt Le Gaya": {
+        "Singer": "Simran Choudhary",
+        "Writer": "Traditional / Shashwat Sachdev",
+        "Category": [
+            "Folk Fusion",
+            "Soulful"
+        ],
+        "Lyrics": [
+            "Lutt le gaya mera chain wo chail chabeela"
+        ]
+    },
+    "Samjho Na": {
+        "Singer": "Aditya Rikhari",
+        "Writer": "Aditya Rikhari",
+        "Category": [
+            "Indie Pop",
+            "Romantic"
+        ],
+        "Lyrics": [
+            "Samjho na tum bin adhura hoon main"
+        ]
+    },
+    "Tum Hi Ho": {
+        "Singer": "Arijit Singh",
+        "Writer": "Mithoon",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Hum tere bin ab reh nahi sakte",
+            "tere bina kya wajood mera"
+        ]
+    },
+    "Tum Jo Aaye": {
+        "Singer": "Tulsi Kumar",
+        "Writer": "Irshad Kamil",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Tum jo aaye zindagi mein baat ban gayi"
+        ]
+    },
+    "Varaha Roopam": {
+        "Singer": "B. Ajaneesh Loknath",
+        "Writer": "Shasiraj Kavoor",
+        "Category": [
+            "Spiritual",
+            "Classical"
+        ],
+        "Lyrics": [
+            "Varaha roopam daiva varenyam"
+        ]
+    }
+}

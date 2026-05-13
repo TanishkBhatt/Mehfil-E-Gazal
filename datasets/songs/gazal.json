@@ -1,0 +1,254 @@
+{
+    "Aap Ko Dekhkar": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Indeevar",
+        "Category": [
+            "Appreciation",
+            "Love"
+        ],
+        "Lyrics": [
+            "Aap ko dekhkar dekhta reh gaya",
+            "kya kahooon aur kya kya na keh gaya"
+        ]
+    },
+    "Apni Dhun Mein Rehta Hoon": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Nasir Kazmi",
+        "Category": [
+            "Solitude",
+            "Life"
+        ],
+        "Lyrics": [
+            "Apni dhun mein rehta hoon main bhi tere jaisa hoon",
+            "pichli rut ke saaye hain main bhi dhoop ka pyaasa hoon"
+        ]
+    },
+    "Awargi Yeh Dil Yeh Pagal": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Mohsin Naqvi",
+        "Category": [
+            "Sad",
+            "Wandering"
+        ],
+        "Lyrics": [
+            "Yeh dil yeh pagal dil mera kyon bujh gaya awargi",
+            "is dasht mein ik shehar tha woh kya hua awargi"
+        ]
+    },
+    "Chupke Chupke Raat Din": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Hasrat Mohani",
+        "Category": [
+            "Nostalgia",
+            "Longing"
+        ],
+        "Lyrics": [
+            "Chupke chupke raat din aansu bahaana yaad hai",
+            "humko ab tak aashiqui ka woh zamaana yaad hai"
+        ]
+    },
+    "Dil Mein Ek Lehar Si Uthi": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Nasir Kazmi",
+        "Category": [
+            "Sad",
+            "Memory"
+        ],
+        "Lyrics": [
+            "Dil mein ek laher si uthi hai abhi",
+            "koi taaza hawa chali hai abhi"
+        ]
+    },
+    "Duniya Kisi Ke Pyaar Mein": {
+        "Singer": "Mehdi Hassan",
+        "Writer": "Jamiluddin Aali",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Duniya kisi ke pyar mein jannat se kam nahin",
+            "ek dilruba hai dil mein jo huroon se kam nahin"
+        ]
+    },
+    "Hoshwalon Ko Khabar Kya": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Nida Fazli",
+        "Category": [
+            "Love",
+            "Enchantment"
+        ],
+        "Lyrics": [
+            "Hoshwalon ko khabar kya bekhudi kya cheez hai",
+            "ishq kijiye phir samajhiye zindagi kya cheez hai"
+        ]
+    },
+    "Hothon Se Chhu Lo Tum": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Indeevar",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Honto se chhu lo tum mera geet amar kar do",
+            "ban jao meet mere meri preet amar kar do"
+        ]
+    },
+    "Hui Hai Shaam Toh Aankhon": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Saifuddin Saif",
+        "Category": [
+            "Sad",
+            "Solitude"
+        ],
+        "Lyrics": [
+            "Hui hai shaam toh aankhon mein bas gaya phir tu",
+            "kahan gaya hai mere shehar ke musafir tu"
+        ]
+    },
+    "Hum Tere Shahar Me Aaye": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Qaiser-ul-Jafri",
+        "Category": [
+            "Sad",
+            "Longing"
+        ],
+        "Lyrics": [
+            "Hum tere shahar mein aaye hain musafir ki tarah",
+            "sirf ek baar mulaqaat ka mauka de de"
+        ]
+    },
+    "Hungama Hai Kyon Barpa": {
+        "Singer": "Ghulam Ali",
+        "Writer": "Akbar Allahabadi",
+        "Category": [
+            "Intoxication",
+            "Witty"
+        ],
+        "Lyrics": [
+            "Hungama hai kyon barpa thodi si jo pee lee hai",
+            "daka toh nahin dala chori toh nahin ki hai"
+        ]
+    },
+    "Is Tarah Mohabbat Ki Shuruat": {
+        "Singer": "Chandan Das",
+        "Writer": "Murtaza Barlas",
+        "Category": [
+            "Romantic",
+            "Hopeful"
+        ],
+        "Lyrics": [
+            "Is tarah mohabbat ki shuruat ki jaye",
+            "jab bhi woh mile humse unse baat ki jaye"
+        ]
+    },
+    "Jhuki Jhuki Si Nazar": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Kaifi Azmi",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Jhuki jhuki si nazar bekarar hai ki nahin",
+            "daba daba sa sahi dil mein pyaar hai ki nahin"
+        ]
+    },
+    "Kal Chaudhvin Ki Raat Thi": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Ibn-e-Insha",
+        "Category": [
+            "Romantic",
+            "Longing"
+        ],
+        "Lyrics": [
+            "Kal chaudhvin ki raat thi shab bhar raha charcha tera",
+            "kuch ne kaha yeh chand hai kuch ne kaha chehra tera"
+        ]
+    },
+    "Mohabbat Karne Waley": {
+        "Singer": "Mehdi Hassan",
+        "Writer": "Hafeez Hoshiarpuri",
+        "Category": [
+            "Sad",
+            "Sacrifice"
+        ],
+        "Lyrics": [
+            "Mohabbat karne wale kam na honge",
+            "teri mehfil mein lekin hum na honge"
+        ]
+    },
+    "Niyat-E-Shauq": {
+        "Singer": "Asha Bhonsle",
+        "Writer": "Nasir Kazmi",
+        "Category": [
+            "Longing",
+            "Love"
+        ],
+        "Lyrics": [
+            "Niyat-e-shauq bhar na jaye kahin",
+            "tu bhi dil se utar na jaye kahin"
+        ]
+    },
+    "Rafta Rafta Woh Meri Hasti": {
+        "Singer": "Mehdi Hassan",
+        "Writer": "Taslim Fazli",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Rafta rafta woh meri hasti ka saaman ho gaye",
+            "pehle jaan phir jaan-e-jaan phir jaan-e-jaana ho gaye"
+        ]
+    },
+    "Sarakti Jaye Hai Rukh Se Na": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Ameer Minai",
+        "Category": [
+            "Intoxication",
+            "Romantic"
+        ],
+        "Lyrics": [
+            "Sarakti jaye hai rukh se naqaab aahista aahista",
+            "nikalta aa raha hai aftaab aahista aahista"
+        ]
+    },
+    "Tere Khushboo Mein Base": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Sudarshan Faakir",
+        "Category": [
+            "Sad",
+            "Heartbreak"
+        ],
+        "Lyrics": [
+            "Teri khushboo mein base khat main jalaata kaise",
+            "pyaar mein doobe huye khwab dikhaata kaise"
+        ]
+    },
+    "Tum Itna Jo Muskura Rahe": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Kaifi Azmi",
+        "Category": [
+            "Sad",
+            "Heartbreak"
+        ],
+        "Lyrics": [
+            "Tum itna jo muskura rahe ho",
+            "kya gham hai jisko chhupa rahe ho"
+        ]
+    },
+    "Tum Ko Dekha To Yeh Khaya": {
+        "Singer": "Jagjit Singh",
+        "Writer": "Javed Akhtar",
+        "Category": [
+            "Appreciation",
+            "Romantic"
+        ],
+        "Lyrics": [
+            "Tum ko dekha toh yeh khayal aaya",
+            "zindagi dhoop tum ghana saaya"
+        ]
+    }
+}

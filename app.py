@@ -1,26 +1,58 @@
 import streamlit as st
+from streamlit_option_menu import option_menu
 from utils.fetch_song import get_song_names, fetch_song
 from utils.recommendations import recommend_more
 
 st.set_page_config(
-    page_title="Mehfil-e-Gazal"
+    page_title="MusicMania"
 )
 
-st.title("MEHFIL E GAZAL")
-st.caption("A MARVELLOUS COLLECTION OF GAZAL AND QAWWALI")
+st.title("MUSIC MANIA")
+st.markdown("CLASSIC GAZAL | QAWAALI | EVERGREEN HINDI | MODERN HINDI | PUNJABI SONGS | ENGLISH HITS")
 st.markdown("")
 st.markdown("")
+
+config = {"song": "gazal"}
+
+with st.sidebar:
+    st.title("SELECT YOUR FAVOURITE")
+    options = option_menu(
+        menu_title="",
+        options=[
+            "CLASSIC GAZAL",
+            "QAWALLI",
+            "EVERGREEN HINDI",
+            "MODERN HINDI",
+            "PUNJABI SONGS",
+            "ENGLISH HITS"
+        ]
+    )
+
+match options:
+    case "CLASSIC GAZAL":
+        config["song"] = "gazal"
+    case "QAWALLI":
+        config["song"] = "qawalli"
+    case "EVERGREEN HINDI":
+        config["song"] = "evergreen"
+    case "MODERN HINDI":
+        config["song"] = "modern"
+    case "PUNJABI SONGS":
+        config["song"] = "punjabi"
+    case "ENGLISH HITS":
+        config["song"] = "english"
+    case _:
+        pass
 
 with st.form(key="get-song"):
     song = st.selectbox(
         "SELECT THE SONG YOU WANNA GO THROUGH",
-        sorted(get_song_names("datasets/songs.json"))
+        sorted(get_song_names(f"datasets/songs/{config["song"]}.json"))
     )
-    
     get_song = st.form_submit_button("__GET SONG__", type="primary")
 
 if get_song:
-    data = fetch_song("datasets/songs.json", song)
+    data = fetch_song(f"datasets/songs/{config["song"]}.json", song)
     st.markdown("")
     st.markdown("")
 
@@ -44,10 +76,15 @@ if get_song:
 
             st.markdown("##### INITIAL LYRICS")
             with st.container(border=True):
-                st.markdown(f"""
-                    - {data["Lyrics"][0]}
-                    - {data["Lyrics"][1]}
-                """.title())
+                if len(data["Lyrics"]) == 2:
+                    st.markdown(f"""
+                        - {data["Lyrics"][0]}
+                        - {data["Lyrics"][1]}
+                    """.title())
+                else:
+                    st.markdown(f"""
+                        - {data["Lyrics"][0]}
+                    """.title())
         with col2:
             st.markdown("##### SINGER OF THE SONG")
             try:
@@ -74,7 +111,11 @@ if get_song:
         st.markdown("")
         
         with st.container(border=True):
-            recommended_by_singer, recommended_by_category = recommend_more("datasets/songs.json", data["Singer"], data["Category"])
+            recommended_by_singer, recommended_by_category = recommend_more(
+                f"datasets/songs/{config["song"]}.json", 
+                data["Singer"], 
+                data["Category"]
+            )
             if (song, data["Singer"]) in recommended_by_singer:
                 recommended_by_singer.remove((song, data["Singer"]))
 
