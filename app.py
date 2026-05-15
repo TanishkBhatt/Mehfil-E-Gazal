@@ -112,7 +112,8 @@ if get_song:
         
         with st.container(border=True):
             recommended_by_singer, recommended_by_category = recommend_more(
-                f"datasets/songs/{config["song"]}.json", 
+                f"datasets/songs/{config["song"]}.json",
+                "datasets/audio", 
                 data["Singer"], 
                 data["Category"]
             )
@@ -123,12 +124,22 @@ if get_song:
             st.markdown("")
 
             if recommended_by_singer:
-                for rec_song in recommended_by_singer:
+                for rec_song in recommended_by_singer[:3]:
                     try:
                         st.markdown(f"{rec_song[0]} By {rec_song[1]}")
                         st.audio(f"datasets/audio/{rec_song[0]}.mp3")
                     except:
                         st.error("ERROR - AUDIO NOT AVAILABLE")
+
+                if len(recommended_by_singer) > 3:
+                    st.markdown("")
+                    with st.expander("MORE RECOMMENDATIONS"):
+                        for rec_song in recommended_by_singer[3:]:
+                            try:
+                                st.markdown(f"{rec_song[0]} By {rec_song[1]}")
+                                st.audio(f"datasets/audio/{rec_song[0]}.mp3")
+                            except:
+                                st.error("ERROR - AUDIO NOT AVAILABLE")
             else:
                 st.warning("NO MORE SONGS AVAILABLE FROM THIS SINGER")
 
@@ -148,14 +159,26 @@ if get_song:
             st.markdown("")
             
             if recommended_by_category:
-                for rec_song in recommended_by_category:
+                for rec_song in recommended_by_category[:3]:
                     try:
                         st.markdown(f"{rec_song[0]} By {rec_song[1]}")
                         st.audio(f"datasets/audio/{rec_song[0]}.mp3")
                     except:
                         st.error("ERROR - AUDIO NOT AVAILABLE")
+
+                if len(recommended_by_category) > 3:
+                    st.markdown("")
+                    with st.expander("MORE RECOMMENDATIONS"):
+                        for rec_song in recommended_by_category[3:]:
+                            try:
+                                st.markdown(f"{rec_song[0]} By {rec_song[1]}")
+                                st.audio(f"datasets/audio/{rec_song[0]}.mp3")
+                            except:
+                                st.error("ERROR - AUDIO NOT AVAILABLE")
             else:
                 st.warning("NO MORE SONGS AVAILABLE FROM THESE CATEGORIES")
+    else:
+        st.error("ERROR - FAILED TO RETRIEVE DATA!")
 
 st.markdown("")
 st.markdown("")

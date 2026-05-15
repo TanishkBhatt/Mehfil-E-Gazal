@@ -79,17 +79,6 @@
             "Gehra hua hai dard aur bhi gehra"
         ]
     },
-    "Ghoomar": {
-        "Singer": "Shreya Ghoshal",
-        "Writer": "A.M. Turaz",
-        "Category": [
-            "Folk",
-            "Classical"
-        ],
-        "Lyrics": [
-            "Ghoomar ramvane mhe padhaya sa"
-        ]
-    },
     "Ishq Jalakar": {
         "Singer": "Shashwat Sachdev",
         "Writer": "Traditional / Shashwat Sachdev",
@@ -121,7 +110,6 @@
         ],
         "Lyrics": [
             "Jhalla wallah",
-            "jhalla wallah",
             "mere aashiq jhalla wallah"
         ]
     },

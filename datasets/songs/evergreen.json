@@ -157,7 +157,7 @@
             "mera saaya saath hoga"
         ]
     },
-    "Mere Mehboob Tujhe Meri Mohabbat": {
+    "Mere Mehboob Tujhe Meri Mohabbat Ki Kasam": {
         "Singer": "Mohammed Rafi",
         "Writer": "Shakeel Badayuni",
         "Category": [
@@ -177,17 +177,6 @@
         ],
         "Lyrics": [
             "Mere samnewali khidki mein ek chand ka tukda rehta hai"
-        ]
-    },
-    "Pal Pal Dil Ke Paas": {
-        "Singer": "Kishore Kumar",
-        "Writer": "Rajinder Krishan",
-        "Category": [
-            "Romantic",
-            "Love"
-        ],
-        "Lyrics": [
-            "Pal pal dil ke paas tum rehti ho"
         ]
     },
     "Phir Chiddi Raat": {
@@ -255,6 +244,18 @@
         ],
         "Lyrics": [
             "Pal pal dil ke paas tum rehti ho"
+        ]
+    },
+    "Mere Mehboob Qayamat Hogi": {
+        "Singer": "Kishore Kumar",
+        "Writer": "Rajinder Krishan",
+        "Category": [
+            "Romantic",
+            "Love"
+        ],
+        "Lyrics": [
+            "Mere Mehboob Qayamat Hogi",
+            "Aaj ruswa, teri galiyon me mohobat hogi"
         ]
     }
 }
